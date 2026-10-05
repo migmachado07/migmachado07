@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Miguel Machado!
 
-<!--
-**migmachado07/migmachado07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas na UNISANTACRUZ, com experiência em suporte de TI, redes e infraestrutura.
 
-Here are some ideas to get you started:
+Estou direcionando minha carreira para o desenvolvimento front-end, back-end e full stack. Neste GitHub, compartilho projetos pessoais e acadêmicos que uso para praticar e aprimorar meus conhecimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Desenvolvimento
+
+- Python, JavaScript, HTML e CSS.
+- SQL e fundamentos de banco de dados.
+- Estudos em TypeScript e Node.js.
+
+## Infraestrutura e automação
+
+- Suporte técnico e configuração de ambientes Windows.
+- Monitoramento com Grafana, SNMP e MIB.
+- Projetos de automação com n8n e inteligência artificial.
+
+## Objetivo profissional
+
+Busco oportunidades para iniciar minha trajetória profissional em desenvolvimento, com interesse no mercado europeu, principalmente na Espanha.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/miguel-machado1/)
+
+---
+Os projetos deste perfil fazem parte do meu aprendizado. Cada repositório apresenta seu objetivo, suas tecnologias e seu estágio de desenvolvimento.
